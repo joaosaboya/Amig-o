@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.titulo{
+    height: 15vh;
+    border: solid red;
+    padding: 2vh;
+    padding-top: 8vh;
+}
+ul{
+    padding: 2vw;
+    padding-left: 80px;
+    border:solid black;
+    height: 35vh;
+}
+li{
+    border: solid blue;
+    margin: 2vh;
+
+}
+form{
+    padding: 2vh;
+}
+.menu{
+    padding: 2vh;
+}
+.X{
+    width: 30px;
+    height: 30px;
+    background-color: #E5E5E5;
+}
+.email{
+    border: solid yellow;
+    margin-left: 13px;
+    padding-top: 22px;
+}
+h2{
+    padding-left: 23px;
+    padding-top: 38px;
+    font-size: 30px;
+    font-weight: 700;
+    border: solid palevioletred;
+    width: 50vw;
+    height: 145px;
+}
+.sobre{
+    height: 30;
+}
