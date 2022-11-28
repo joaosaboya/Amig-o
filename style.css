@@ -8,18 +8,18 @@
 }
 .titulo{
     height: 15vh;
-    border: solid red;
+    /*border: solid red;*/
     padding: 2vh;
     padding-top: 8vh;
 }
-ul{
+.navHome{
     padding: 2vw;
     padding-left: 80px;
-    border:solid black;
+    /*border:solid black;*/
     height: 35vh;
 }
-li{
-    border: solid blue;
+.liHead{
+    /*border: solid blue;*/
     margin: 2vh;
 
 }
@@ -35,19 +35,121 @@ form{
     background-color: #E5E5E5;
 }
 .email{
-    border: solid yellow;
+    /*border: solid yellow;*/
     margin-left: 13px;
     padding-top: 22px;
 }
-h2{
+.adoteUmAmigo{
     padding-left: 23px;
     padding-top: 38px;
     font-size: 30px;
     font-weight: 700;
-    border: solid palevioletred;
+    /*border: solid palevioletred;*/
     width: 50vw;
     height: 145px;
 }
-.sobre{
-    height: 30;
+.primeiroP{
+    padding-left: 23px;
+    padding-top: 30px;
+    /*border: solid violet;*/
+    height: 90px;
+    width: 90vw;
+}
+.segundoP{
+    padding-left: 23px;
+    padding-top: 30px;
+    /*border: solid brown;*/
+    height: 25vh;
+    width: 90vw;
+}
+.circuloDiv{
+    height: 305px;
+    padding-left: 24px;
+    padding-top: 30px;
+}
+.circuloP{
+    background-color: #C4C4C4;
+    border-radius: 50% 50% 50% 50%;
+    /*border: solid red;*/
+    height: 270px;
+    width: 270px;
+    padding-left: 24px;
+}
+.adote{
+    padding-top: 15px;
+    padding-left: 35px;
+    font-size: 30px;
+    font-weight: 700;
+    /*border: solid blue;*/
+    height: 100px;
+}
+.terceiroP{
+    padding-left: 35px;
+    /*border: solid brown;*/
+    height: 6vh;
+}
+.cachorros{
+    padding-left: 30px;
+    height: 90vh;
+    /*border: solid chocolate;*/
+}
+figure{
+    width: 190px;
+    display: inline-block;
+    /*border: solid red;*/
+}
+.cao{
+    /*border: solid black;*/
+    width: 200px;
+    height: 200px;
+}
+.labrador{
+    padding-top: 60px;
+    /*border: solid blue;*/
+    width: 340px;
+    height: 440px;
+}
+.caoLoro{
+    padding-top: 0px;
+    width: 344px;
+    height: 233px;
+}
+button{
+    display:block ;
+}
+h4{
+    /*border: solid aqua;*/
+    height: 55px;
+    padding-top: 10px;
+}
+.homeP{
+    height: 50px;
+    padding-left: 24px;
+}
+.redesSociaisImg{
+    padding-left: px;
+    height: 25px;
+    width: 25px;
+}
+.imgsLeft{
+    padding-left: 24px;
+}
+.contatos{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-left: 24px;
+    height: 45px;
+    display: block;
+    /*border: solid gold;*/
+}
+.navUlFooter{
+    padding-left: 50px;
+    /*border:solid fuchsia ;*/
+    height: 60vh;
+}
+.liFooter{
+    padding-top: 10px;
+    height: 50px;
 }
